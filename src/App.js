@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import Counter from './compnents/Counter';
+import Counter from './components/Counter';
 import './styles/App.css';
 
 function App() {
